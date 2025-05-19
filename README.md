@@ -94,6 +94,22 @@ Você pode acessá-los abaixo:
 
 ---
 
+📚 Links Úteis
+Abaixo estão alguns materiais de apoio que podem ajudar em dúvidas ou consultas rápidas sobre o processo de importação:
+
+📘 Manual da Domínio Web – Importação de Dados
+
+🎥 Vídeo tutorial: Como importar corretamente arquivos
+
+📄 Guia de padronização dos arquivos de importação (.csv)
+
+🛠️ Checklist de verificação antes da importação
+
+📁 Acesso rápido à pasta de Erros
+
+📁 Acesso rápido à pasta de Importados
+
+---
 ## 📬 Contato
 
 **Jhennifer Ferreira Nascimento**  
